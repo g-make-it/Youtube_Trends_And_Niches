@@ -13,4 +13,4 @@ Check the video for more details:
 
 ## Update 
 This is a dataset I made from hacking together some analytical tools.
-These keywords/search queries can be used for the basis to make a youtube video/channel from - updated: 23/08/2022 trending topics
+These keywords/search queries can be used for the basis to make a youtube video/channel from - updated: 24/08/2022 trending topics
